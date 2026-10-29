@@ -1,23 +1,21 @@
-### Hi there 👋, I'm grolch96
+### Приветствую 👋
 
-I am a **System Administrator / Network Engineer** with a strong background in Linux and Cisco networking. Currently focusing on remote opportunities and preparing for Cisco certifications.
+**Сетевой инженер / Системный администратор** (Network Engineer).
+Специализируюсь на проектировании, восстановлении и автоматизации сетей Cisco. Имею опыт работы с Linux и сложными сетевыми архитектурами. Сейчас готовлюсь к сертификации CCNP Enterprise и ищу удалённую работу.
 
-- 🔭 I’m currently working on: **Cisco network recovery labs (Legacy & Advanced)**
-- 🌱 I’m currently learning: **CCNP Enterprise (ENCOR)**
-- 🎯 Goals: **CCNA (scheduled), CCNP Enterprise**
-- 💻 Tech Stack: **Cisco IOS, OSPF, EIGRP, VLANs, STP, Linux, Python (Netmiko/NAPALM)**
-- 📫 How to reach me: [GitHub Issues or Discussions]
-
----
-
-### 📂 Featured Projects
-- [Cisco Networking Labs](https://github.com/grolch96/cisco-labs) — Hands-on labs focused on legacy network recovery and advanced Cisco routing/switching.
+- 🔭 Сейчас работаю над: **Портфолио сетевых лабораторных работ (CCNA/CCNP)**
+- 🌱 Изучаю: **CCNP Enterprise (ENCOR)**
+- 🎯 Цели: **Сдать CCNA, получить CCNP Enterprise**
+- 💻 Стек технологий: **Cisco IOS/IOS-XE, OSPF (Multi-Area), EIGRP, BGP, HSRP, NAT/PAT, IPv6, L2 Security, Linux**
 
 ---
 
-### 🛠️ Certifications Progress
-- **CCNA** — Mock exams ~95% (Exam scheduled)
-- **CCNP Enterprise** — In progress (~45%)
+### 📂 Мои проекты
+- **[Интерактивное портфолио (Website)](https://grolch96.github.io/)** — Единый портал с лабораторными работами, сценариями Troubleshooting и интерактивным справочником Cisco IOS.
+- **[Лабораторные по сетям Cisco](https://github.com/grolch96/cisco-labs)** — Практические работы: от базовой настройки VLAN/LACP до продвинутой маршрутизации (BGP, OSPF Multi-Area) и L2-безопасности.
 
 ---
-*"The woods are lovely, dark and deep, but I have promises to keep, and miles to go before I sleep."* — Robert Frost
+
+### 🛠️ Прогресс по сертификации
+- **CCNA** — Пробные экзамены ~95% (Экзамен назначен)
+- **CCNP Enterprise** — В процессе (~45%)

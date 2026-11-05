@@ -19,7 +19,7 @@
 
 ### 📂 Мои проекты
 - **[Интерактивное портфолио](https://grolch96.github.io/)** — Единый портал с лабораторными работами, сценариями Troubleshooting, практикумом и интерактивным справочником Cisco IOS.
-- **[Лабораторные по сетям Cisco](https://github.com/grolch96/cisco-labs)** — Практические работы: от базовой настройки VLAN/LACP до продвинутой маршрутизации (BGP, OSPF Multi-Area) и L2-безопасности.
+- **[Лабораторные по сетям Cisco]** — Практические работы: от базовой настройки VLAN/LACP **https://grolch96.github.io/lab1-report.html** до продвинутой маршрутизации (BGP, OSPF Multi-Area) и L2-безопасности **https://grolch96.github.io/lab2-report.html**.
 
 ---
 
